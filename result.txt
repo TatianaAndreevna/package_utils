@@ -1,0 +1,3 @@
+2019-02-05 21:55:56.455704 __init__ (<__main__.Contact object at 0x0059A5D0>, 'Jhon', 'Smith', '+71234567809') {'telegram': '@jhony', 'email': 'jhony@smith.com'} None
+2019-02-05 21:55:56.457704 __init__ (<__main__.Contact object at 0x0059A730>, 'Stewie', 'Griffin', '+79203456578') {'favorites': True, 'telegram': '@stewie'} None
+2019-02-05 21:55:56.458704 __init__ (<__main__.Contact object at 0x0059A7D0>, 'Terry', 'Bates', '+78906754876') {'email': 'terry@gmail.com'} None
